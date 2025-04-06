@@ -226,10 +226,10 @@ const HolographicCard = () => {
                                         {/* unkerned heading for comparison*/}
                                         {/* <span>floguo</span> */}
                                         <span style={{ letterSpacing: '-0.05em' }}>M</span>
-                                        <span style={{ letterSpacing: '-0.04em' }}>o</span>
-                                        <span style={{ letterSpacing: '-0.02em' }}>h</span>
-                                        <span style={{ letterSpacing: '-0.08em' }}>i</span>
-                                        <span style={{ letterSpacing: '-0.05em' }}>t</span>
+                                        <span style={{ letterSpacing: '-0.04em' }}>O</span>
+                                        <span style={{ letterSpacing: '-0.02em' }}>H</span>
+                                        <span style={{ letterSpacing: '-0.08em' }}>I</span>
+                                        <span style={{ letterSpacing: '-0.05em' }}>T</span>
                                     </h2>
                                     <p className="font-mono font-semibold uppercase tracking-wider text-[0.625rem] animate-[fadeIn_0.7s_ease-out_0.4s]">
                                         Frontend Developer
@@ -380,7 +380,7 @@ const HolographicCard = () => {
                     rel="noopener noreferrer"
                     className="opacity-30 hover:opacity-50 transition-opacity duration-300 ease-[cubic-bezier(0.23,1,0.32,1)]"
                 >
-                    X.COM/FLOGUO
+                    X.COM/MOHIT
                 </a>
                 <p className="opacity-30">|</p>
                 <a
