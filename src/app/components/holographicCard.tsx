@@ -224,7 +224,7 @@ const HolographicCard = () => {
                                 <div className="flex flex-col my-20">
                                     <h2 className="text-5xl bg-gradient-to-r from-white to-gray-600 bg-clip-text text-transparent tracking-tight leading-normal animate-[fadeIn_0.7s_ease-out_0.3s] motion-reduce:animate-none">
                                         {/* unkerned heading for comparison*/}
-                                        {/* <span>floguo</span> */}
+                                        {/* <span>MOHIT RAJ</span> */}
                                         <span style={{ letterSpacing: '-0.05em' }}>M</span>
                                         <span style={{ letterSpacing: '-0.04em' }}>O</span>
                                         <span style={{ letterSpacing: '-0.02em' }}>H</span>
