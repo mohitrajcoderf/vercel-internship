@@ -232,7 +232,7 @@ const HolographicCard = () => {
                                         <span style={{ letterSpacing: '-0.05em' }}>t</span>
                                     </h2>
                                     <p className="font-mono font-semibold uppercase tracking-wider text-[0.625rem] animate-[fadeIn_0.7s_ease-out_0.4s]">
-                                        Design Engineering
+                                        Frontend Developer
                                     </p>
                                 </div>
                             </div>
@@ -375,7 +375,7 @@ const HolographicCard = () => {
             {/* X link - sticky footer */}
             <div className="fixed bottom-4 space-x-3 flex flex-row justify-center items-center text-white font-mono font-semibold uppercase tracking-wider text-[0.5rem]">
                 <a
-                    href="https://x.com/floguo"
+                    href="https://x.com/mohitraj2546"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="opacity-30 hover:opacity-50 transition-opacity duration-300 ease-[cubic-bezier(0.23,1,0.32,1)]"
@@ -384,7 +384,7 @@ const HolographicCard = () => {
                 </a>
                 <p className="opacity-30">|</p>
                 <a
-                    href="https://github.com/floguo/holographic"
+                    href="https://github.com/mohitrajcoderf/vercel-internship"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="opacity-30 hover:opacity-50 transition-opacity duration-300 ease-[cubic-bezier(0.23,1,0.32,1)]"
