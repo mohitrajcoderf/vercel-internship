@@ -225,12 +225,11 @@ const HolographicCard = () => {
                                     <h2 className="text-5xl bg-gradient-to-r from-white to-gray-600 bg-clip-text text-transparent tracking-tight leading-normal animate-[fadeIn_0.7s_ease-out_0.3s] motion-reduce:animate-none">
                                         {/* unkerned heading for comparison*/}
                                         {/* <span>floguo</span> */}
-                                        <span style={{ letterSpacing: '-0.05em' }}>f</span>
-                                        <span style={{ letterSpacing: '-0.04em' }}>l</span>
-                                        <span style={{ letterSpacing: '-0.02em' }}>o</span>
-                                        <span style={{ letterSpacing: '-0.08em' }}>g</span>
-                                        <span style={{ letterSpacing: '-0.05em' }}>u</span>
-                                        <span style={{ letterSpacing: '-0.03em' }}>o</span>
+                                        <span style={{ letterSpacing: '-0.05em' }}>M</span>
+                                        <span style={{ letterSpacing: '-0.04em' }}>o</span>
+                                        <span style={{ letterSpacing: '-0.02em' }}>h</span>
+                                        <span style={{ letterSpacing: '-0.08em' }}>i</span>
+                                        <span style={{ letterSpacing: '-0.05em' }}>t</span>
                                     </h2>
                                     <p className="font-mono font-semibold uppercase tracking-wider text-[0.625rem] animate-[fadeIn_0.7s_ease-out_0.4s]">
                                         Design Engineering
